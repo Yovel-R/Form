@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    max-width: 500px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #007b0c;
+  }
+  .form-control{
+    background-color: #daf6d448;
+  }
+  .btn-primary{
+    background-color: #007b0c;
+    border-color: #015e0a;
+  }
+  .btn-primary:hover{
+    background-color: #015e0a;
+    
+  }
